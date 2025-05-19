@@ -1,0 +1,8 @@
+body {
+    background-image: url('download\ \(1\).jpeg');
+    background-size: cover;
+  }
+
+  select{
+    font-family: 'nome da fonte', fallback-fonte;
+  }
